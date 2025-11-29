@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReleaseNoteBuilder", "..\ReleaseNoteBuilder\ReleaseNoteBuilder.csproj", "{4016457E-519E-49CF-B2CD-BFE3BC4FE19D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4016457E-519E-49CF-B2CD-BFE3BC4FE19D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4016457E-519E-49CF-B2CD-BFE3BC4FE19D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4016457E-519E-49CF-B2CD-BFE3BC4FE19D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4016457E-519E-49CF-B2CD-BFE3BC4FE19D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E0991E6-7C3A-4D92-A8A5-9455660518A2}
+	EndGlobalSection
+EndGlobal
